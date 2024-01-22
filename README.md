@@ -1,4 +1,4 @@
-# Data_visuvalization_tools
+# Data visualization_tools
 created amazing charts using** _Tableau_** which is used to simplify data visualisation and data analysis
 - **Revenue vs Month; Line chart**
   
